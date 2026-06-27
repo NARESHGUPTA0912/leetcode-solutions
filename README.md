@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## String
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
