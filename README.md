@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1470-shuffle-the-array](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Sorting
