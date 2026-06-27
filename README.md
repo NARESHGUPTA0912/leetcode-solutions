@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1260-shift-2d-grid](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1470-shuffle-the-array](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Memoization
 |  |
