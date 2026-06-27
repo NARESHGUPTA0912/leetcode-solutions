@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0283-move-zeroes](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0766-toeplitz-matrix](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
