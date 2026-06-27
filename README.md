@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [1480-running-sum-of-1d-array](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Hash Table
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
