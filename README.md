@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0504-base-7) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0832-flipping-an-image](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
