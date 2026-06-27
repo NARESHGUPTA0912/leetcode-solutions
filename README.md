@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
