@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0766-toeplitz-matrix](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1470-shuffle-the-array](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Sorting
 |  |
