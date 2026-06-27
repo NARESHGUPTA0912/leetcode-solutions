@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
