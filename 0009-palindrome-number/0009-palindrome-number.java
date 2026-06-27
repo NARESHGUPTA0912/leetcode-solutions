@@ -1,22 +1,19 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        // Negative numbers and numbers ending in 0 (but not 0 itself) can't be palindrome
-        if (x < 0 || (x % 10 == 0 && x != 0)) {
+        // We revert half of the number and compare with the original number
+        // edge cases, 0/1/negative numbers
+        if (x < 0)
             return false;
+        if (x % 10 == 0 && x != 0)
+            return false;
+        int revert = 0;
+        while (x > revert) {
+            revert = revert*10 + x%10;
+            x/=10;
         }
-
-        int reversedHalf = 0;
-        while (x > reversedHalf) {
-            reversedHalf = reversedHalf * 10 + x % 10;
-            x /= 10;
-        }
-
-        // For even length: x == reversedHalf
-        // For odd length: x == reversedHalf / 10
-        return x == reversedHalf || x == reversedHalf / 10;
-    }
+        return x == revert || x == revert/10; 
+    } 
 }
-
 
 // Synced seamlessly with LeetHub Pro
 // Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
