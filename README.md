@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0766-toeplitz-matrix](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Memoization
