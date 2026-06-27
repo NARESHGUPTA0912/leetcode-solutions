@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0504-base-7) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0202-happy-number) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## String
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0202-happy-number](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0202-happy-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
