@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1920-build-array-from-permutation](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Memoization
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
