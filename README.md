@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## String
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/NARESHGUPTA0912/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |
